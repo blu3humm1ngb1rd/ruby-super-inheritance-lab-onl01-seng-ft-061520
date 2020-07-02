@@ -9,15 +9,6 @@ class ChattyStudent < Student
   def raise_hand
     super 
       @raise_hand
-      @raise_hand
-      @raise_hand
-      @raise_hand
-      @raise_hand
-      @raise_hand
-      @raise_hand
-      @raise_hand
-      @raise_hand
-      @raise_hand
   end 
 
 end 
