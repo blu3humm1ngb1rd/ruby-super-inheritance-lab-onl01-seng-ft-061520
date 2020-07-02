@@ -8,7 +8,16 @@ class ChattyStudent < Student
   
   def raise_hand
     super 
-      10.times{puts @raise_hand}
+      @raise_hand
+      @raise_hand
+      @raise_hand
+      @raise_hand
+      @raise_hand
+      @raise_hand
+      @raise_hand
+      @raise_hand
+      @raise_hand
+      @raise_hand
   end 
 
 end 
