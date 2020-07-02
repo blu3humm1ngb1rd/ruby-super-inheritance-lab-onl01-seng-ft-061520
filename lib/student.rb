@@ -1,6 +1,6 @@
 class Student 
   
-  def helllo 
+  def hello 
     puts "Hey there! I'm so excited to learn stuff."
   end 
   
